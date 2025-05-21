@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ResourcesReferenceDirectory" id="5c4b24bb-12dd-47fd-89a3-1a19b78b7183">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+  </properties>
+</File>

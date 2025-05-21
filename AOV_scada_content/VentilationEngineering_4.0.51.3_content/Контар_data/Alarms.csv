@@ -1,0 +1,7 @@
+﻿Id;Hash;Pseudonym;Importance;Message;ComparisonOperator;ActivationValue;DeactivationComparisonOperator;DeactivationValue
+04c042ce-a7c8-4c11-9211-b58d148c728e;1\Alarm\Отказ ТЕ2 пр. помещ.;1\Alarm\Отказ ТЕ2 пр. помещ.;0;ШАУС:  Отказ ТЕ2 пр. помещ.;Equal;1;Equal;0
+ed77d43a-8057-4081-907d-8eb1ef870b8e;1\Alarm\Отказ ТЕ1 пр. ТС;1\Alarm\Отказ ТЕ1 пр. ТС;0;ШАУС:  Отказ ТЕ1 пр. ТС;Equal;1;Equal;0
+f4855625-354a-4239-a0f9-d93860d2f136;1\Alarm\Отказ ТЕ3 обр. помещ.;1\Alarm\Отказ ТЕ3 обр. помещ.;0;ШАУС:  Отказ ТЕ3 обр. помещ.;Equal;1;Equal;0
+59f1e714-2e0d-4505-9a09-3680011ef1ab;1\Alarm\Отказ полож кл. Y1;1\Alarm\Отказ полож кл. Y1;0;ШАУС:  Отказ полож кл. Y1;Equal;1;Equal;0
+c09bcccc-d650-4c0c-a7c1-cc5ad16beeb3;1\Alarm\Отказ потенциометра;1\Alarm\Отказ потенциометра;0;ШАУС:  Отказ потенциометра;Equal;1;Equal;0
+115f461c-f13a-4cff-aa44-57e0f8e3a2ab;1\Alarm\Нет работы Н по КМ;1\Alarm\Нет работы Н по КМ;0;ШАУС:  Нет работы Н по КМ;Equal;1;Equal;0

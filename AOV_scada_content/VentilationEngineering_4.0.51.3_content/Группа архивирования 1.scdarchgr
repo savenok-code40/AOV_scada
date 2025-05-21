@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ArchiveGroupFile" id="5e8bc190-57e8-47ea-bf15-719c15a2ca15">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+  </properties>
+</File>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SchemeFile" id="b6d1b987-e2c9-43d4-9437-2410ead3bb72">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+  </properties>
+  <elementsRootModel id="5f62fd40-baf9-4752-8b64-7631db8c287c">
+    <properties />
+    <children>
+      <Child xsi:type="ElementModel" id="369ef0c7-8674-47f5-bd99-e85e8bc33cf4" typeId="f5260f3d-fccc-4cfc-a62a-626f7e42b5d1">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Тренд 1" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="-0.1223602" />
+              <NFloatParameter name="Y" value="0.2653637" />
+              <NFloatParameter name="Width" value="49.96016" />
+              <NFloatParameter name="Height" value="49.73819" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="20" />
+              <NFloatParameter name="HeightDefault" value="20" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TrendProperty>
+            <parameters />
+            <ChildProperties>
+              <PropertyModel xsi:type="TrendLineRecordPropertyModel">
+                <parameters>
+                  <StringParameter name="Name" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[2].out_rValueFilterAndCorrex" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[2].out_rValueFilterAndCorrex" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[2].out_rValueFilterAndCorrex" />
+                      <StringParameter name="FormatString" value="#0.000" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>SourceVariable</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="TrendColorPropertyModel">
+                    <parameters>
+                      <StringParameter name="Color" value="FFD000" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>TrendColor</n>
+                    <Events />
+                  </PropertyModel>
+                </ChildProperties>
+                <n>TrendLine</n>
+              </PropertyModel>
+              <PropertyModel xsi:type="TrendLineRecordPropertyModel">
+                <parameters>
+                  <StringParameter name="Name" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[3].out_rValueFilterAndCorrex" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[3].out_rValueFilterAndCorrex" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[3].out_rValueFilterAndCorrex" />
+                      <StringParameter name="FormatString" value="#0.000" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>SourceVariable</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="TrendColorPropertyModel">
+                    <parameters>
+                      <StringParameter name="Color" value="4A90E2" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>TrendColor</n>
+                    <Events />
+                  </PropertyModel>
+                </ChildProperties>
+                <n>TrendLine</n>
+              </PropertyModel>
+              <PropertyModel xsi:type="TrendLineRecordPropertyModel">
+                <parameters>
+                  <StringParameter name="Name" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[4].out_rValueFilterAndCorrex" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[4].out_rValueFilterAndCorrex" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.astSensor[4].out_rValueFilterAndCorrex" />
+                      <StringParameter name="FormatString" value="#0.000" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>SourceVariable</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="TrendColorPropertyModel">
+                    <parameters>
+                      <StringParameter name="Color" value="6BAF3E" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>TrendColor</n>
+                    <Events />
+                  </PropertyModel>
+                </ChildProperties>
+                <n>TrendLine</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>Trend</n>
+          </TrendProperty>
+        </properties>
+      </Child>
+    </children>
+  </elementsRootModel>
+</File>

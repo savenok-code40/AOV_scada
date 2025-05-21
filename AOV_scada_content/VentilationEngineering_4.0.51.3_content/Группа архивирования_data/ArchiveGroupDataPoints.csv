@@ -1,0 +1,7 @@
+﻿VariableHash;VariablePseudonym;DataProviderAlias;DataProviderId
+"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rY_Pid";"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rY_Pid";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3
+"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rActualValue";"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rActualValue";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3
+"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rSetPoint";"ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rSetPoint";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3
+"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[2].out_rValueFilterAndCorrex";"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[2].out_rValueFilterAndCorrex";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3
+"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[3].out_rValueFilterAndCorrex";"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[3].out_rValueFilterAndCorrex";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3
+"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[4].out_rValueFilterAndCorrex";"ns=4;s=|var|kB.D-2.Application.GVL.astSensor[4].out_rValueFilterAndCorrex";OPC UA;86c21415-cad9-4868-b774-41c7235a98a3

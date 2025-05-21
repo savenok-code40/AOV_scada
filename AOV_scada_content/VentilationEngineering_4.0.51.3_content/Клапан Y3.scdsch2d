@@ -1,0 +1,4397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SchemeFile" id="cd639b11-4bea-4507-a327-5212f7fc26ab">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+    <CanvasSchemeProperty>
+      <parameters>
+        <StringParameter name="CanvasColor" value="CCCCCC" />
+        <NIntParameter name="CanvasWidth" value="800" />
+        <NIntParameter name="CanvasHeight" value="1080" />
+        <NBoolParameter name="LockCameraToCanvas" value="False" />
+      </parameters>
+      <ChildProperties />
+      <n>Canvas</n>
+    </CanvasSchemeProperty>
+  </properties>
+  <elementsRootModel id="7f906b6d-3ba8-4000-8e26-24d03eb51e96">
+    <properties />
+    <children>
+      <Child xsi:type="ElementModel" id="176da196-3617-4c14-bf4f-1b2ca7f727ca" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 1" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="40" />
+              <NFloatParameter name="Height" value="54" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NBoolParameter name="Fixate" value="True" />
+              <NFloatParameter name="X" value="0.05" />
+              <NFloatParameter name="Y" value="0.05" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="bb9754d4-e1dc-4638-8c8b-ad7c2348587c" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 7" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Y" value="49.50002" />
+              <NFloatParameter name="Width" value="39.98681" />
+              <NFloatParameter name="Height" value="4.463264" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="0.05000231" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="FFFFFF" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="73626c87-9c4e-460f-a277-63832594dd01" typeId="3f8d9443-0928-4a92-9bb9-009a537fee2d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Кнопка 2" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Y" value="49.55001" />
+              <NFloatParameter name="Width" value="8" />
+              <NFloatParameter name="Height" value="2" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="0.1500022" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Вентиляция П1В1" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="d3d3d3" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="FFFFFF" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="Bold" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <MouseClickProperty>
+            <parameters />
+            <ChildProperties />
+            <n>MouseClick</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventMouseClickPropertyModel">
+                <parameters>
+                  <StringParameter name="Action" value="Navigation" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceSchemePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="П1В1" />
+                      <NGuidParameter name="SourceId" value="af3281af-f393-4667-9646-c047a1b45c35" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>NavigateScheme</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>MouseClickEvent</n>
+                <Events />
+                <Guid>b04281b4-916f-45d1-bc5f-259be3321b98</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </MouseClickProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="57b7b20a-94ba-44a5-9dfc-ade92729143f" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 100" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="0.1500022" />
+              <NFloatParameter name="Y" value="51.90001" />
+              <NFloatParameter name="Width" value="19.47771" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.8" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="   Приточно-вытяжная вентиляция" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NFloatParameter name="Size" value="11" />
+              <NBoolParameter name="Bold" value="True" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="WordWrap" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Opacity" value="50" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="dcbf85db-ee85-4230-b761-62e407b2d6c7" typeId="3f8d9443-0928-4a92-9bb9-009a537fee2d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Кнопка 3" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Y" value="49.55001" />
+              <NFloatParameter name="Width" value="8" />
+              <NFloatParameter name="Height" value="2" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="8.25001" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Клапан Y3" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="FFFFFF" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="Bold" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="fffff0" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="652c5a93-4631-4581-9f15-bc00a9a0b157" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 105" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="23.44997" />
+              <NFloatParameter name="Y" value="51.90001" />
+              <NFloatParameter name="Width" value="16.30922" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.8" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="ООО &quot;МЗТА Инжиниринг&quot;  г.Москва ул.Мироновская , 33" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="Bold" value="True" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="WordWrap" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Opacity" value="50" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="fc383d89-8f12-4ffd-bdf3-e696bd17d2a0" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 58" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="46.5" />
+              <NFloatParameter name="Width" value="10.52664" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Ручной режим MANUAL" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="0439f7c4-9d5f-4797-a47d-ca27eefd3168" typeId="3f8d9443-0928-4a92-9bb9-009a537fee2d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Кнопка 5" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="32.25" />
+              <NFloatParameter name="Y" value="46.5" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="FDFDFD" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="ParameterName" value="Color" />
+                  <StringParameter name="ConstParameterValue" value="FFFF04" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.stPid.xMANUAL" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.stPid.xMANUAL" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>63727e2b-b7bc-4c14-9529-de5d2afa20bf</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </BackgroundProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Выкл" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="ParameterName" value="Text" />
+                  <StringParameter name="ConstParameterValue" value="Вкл" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.stPid.xMANUAL" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.stPid.xMANUAL" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>8f2695d5-4f05-4ec7-b41c-96fe6b19e458</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="5409f503-e033-4316-8769-18542ec4a780" typeId="3f8d9443-0928-4a92-9bb9-009a537fee2d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Кнопка 6" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="12.75" />
+              <NFloatParameter name="Y" value="46.5" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="FDFDFD" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="ParameterName" value="Color" />
+                  <StringParameter name="ConstParameterValue" value="FFFF04" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xHeatingUp" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xHeatingUp" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>63727e2b-b7bc-4c14-9529-de5d2afa20bf</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </BackgroundProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Выкл" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="ParameterName" value="Text" />
+                  <StringParameter name="ConstParameterValue" value="Вкл" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xHeatingUp" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xHeatingUp" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>8f2695d5-4f05-4ec7-b41c-96fe6b19e458</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="2524fd2c-3050-4118-8584-cef12e921435" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 59" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="46.5" />
+              <NFloatParameter name="Width" value="10.52664" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Прогрев нагревателя" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="1bcc43c8-f345-4d74-b1ee-9d1d446ece59" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 4" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="19" />
+              <NFloatParameter name="Height" value="10.05" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Y" value="35.4" />
+              <NFloatParameter name="X" value="0.75" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <RectProperty>
+            <parameters>
+              <NBoolParameter name="RoundCorners" value="True" />
+              <NFloatParameter name="ValueLU" value="1.5" />
+              <NFloatParameter name="ValueRU" value="1.5" />
+              <NFloatParameter name="ValueRD" value="1.5" />
+              <NFloatParameter name="ValueLD" value="1.5" />
+            </parameters>
+            <ChildProperties />
+            <n>Rect</n>
+            <Events />
+          </RectProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="f83fdd26-5dc8-4058-ab6f-d24e874c69d4" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 60" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="4.5" />
+              <NFloatParameter name="Y" value="43.65" />
+              <NFloatParameter name="Width" value="11.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Температура регулирования" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="Bold" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="2134e72a-a6d5-4c7d-9bba-23a2eed3edd0" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 61" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="42" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Задание Т прит. воздуха:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="f57b7a86-6465-4331-bb64-f6facd7ba496" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 1" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Y" value="42" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskTemperAirSupply" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskTemperAirSupply" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="33ea2078-907d-43ad-b2af-4361d421054d" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 62" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="40.05" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Задание Т обратной воды:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="2e749f85-401f-4240-85ed-c42d8a5fb4cf" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 2" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Y" value="40.05" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskTemperWaterBack" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskTemperWaterBack" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="0b05888d-8954-44fc-9390-092a3b5f65f9" typeId="4d1bfef9-1d4e-4b5d-87c2-7aaeb6f00f58">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Эллипс 25" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="13.8" />
+              <NFloatParameter name="Y" value="40.2" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NBoolParameter name="SaveRatioTransform" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <DrawShapeProperty>
+            <parameters>
+              <StringParameter name="Color" value="B5B59E" />
+            </parameters>
+            <ChildProperties />
+            <n>DrawShape</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="EqualsZero" />
+                  <StringParameter name="ParameterName" value="Color" />
+                  <StringParameter name="ConstParameterValue" value="6BAF3E" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xTemperAirSupplyControl" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xTemperAirSupplyControl" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>b23e7ed8-be7a-42d3-a19b-22b28df16eca</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </DrawShapeProperty>
+          <LineRendererProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>LineRenderer</n>
+            <Events />
+          </LineRendererProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="6f92fff4-a6e1-405f-99d8-e7e22e39be81" typeId="4d1bfef9-1d4e-4b5d-87c2-7aaeb6f00f58">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Эллипс 27" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="13.8" />
+              <NFloatParameter name="Y" value="42.15" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NBoolParameter name="SaveRatioTransform" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <DrawShapeProperty>
+            <parameters>
+              <StringParameter name="Color" value="B5B59E" />
+            </parameters>
+            <ChildProperties />
+            <n>DrawShape</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="ParameterName" value="Color" />
+                  <StringParameter name="ConstParameterValue" value="6BAF3E" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xTemperAirSupplyControl" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.fbHeater.out_xTemperAirSupplyControl" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>b23e7ed8-be7a-42d3-a19b-22b28df16eca</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </DrawShapeProperty>
+          <LineRendererProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>LineRenderer</n>
+            <Events />
+          </LineRendererProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="7e82fe5c-afe2-4a5e-9922-5869c7191347" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 63" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="38.1" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Задание на регулятор SP:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="f3444b6a-9138-4541-b1ed-3821e7510a2e" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 64" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Y" value="38.1" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="null" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rSetPoint" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rSetPoint" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>69394319-2530-483d-9d44-5d4825fcf0e7</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="f5f5f5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="5d68b426-0cd8-47d7-8f10-e0fe8d92fd60" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 65" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="36.15" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Текущее значение PV:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="62b866ac-991c-4683-b4eb-5d1d496f6e8e" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 66" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Y" value="36.15" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="null" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rActualValue" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rActualValue" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>69394319-2530-483d-9d44-5d4825fcf0e7</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="f5f5f5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="3c512786-4c1d-4650-a44b-f60571be0da1" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 6" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="19" />
+              <NFloatParameter name="Height" value="18" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Y" value="27.45" />
+              <NFloatParameter name="X" value="20.4" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <RectProperty>
+            <parameters>
+              <NBoolParameter name="RoundCorners" value="True" />
+              <NFloatParameter name="ValueLU" value="1.5" />
+              <NFloatParameter name="ValueRU" value="1.5" />
+              <NFloatParameter name="ValueRD" value="1.5" />
+              <NFloatParameter name="ValueLD" value="1.5" />
+            </parameters>
+            <ChildProperties />
+            <n>Rect</n>
+            <Events />
+          </RectProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="a79c9c85-242c-4dc0-86d1-ffbec2567667" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 70" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="38.1" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Ymin выхода регулятора:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="69e0839a-a386-4dcf-88d0-7955ba6eda8d" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 72" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="24" />
+              <NFloatParameter name="Y" value="43.8" />
+              <NFloatParameter name="Width" value="11.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Настройки ПИД регулятора" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="Bold" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="d6e3406b-8939-44ef-af31-b4379f6543aa" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 73" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="36.15" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Ymax выхода регулятора:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="4fa16244-5bde-4b16-8905-fc001adf7651" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 5" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="38.1" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rYMIN" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rYMIN" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;%&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="75136fc0-8e8c-44da-8991-10f160c448c9" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 6" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="36.15" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rYMAX" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rYMAX" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;%&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="928a293d-c0d2-4f62-b6d5-188a8e4c89d7" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 7" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="30.15" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rScaleYMAX" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rScaleYMAX" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;v&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="96837de3-f38c-4d30-9ab6-97bc9d4fd5c6" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 74" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="32.1" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Ymin задание на клапан:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="0016686a-b7e1-4067-a85f-f5a97eae566e" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 75" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="30.15" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Ymax задание на клапан:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="c760c20b-583e-4251-bf47-565bf40d01fd" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 8" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="32.1" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rScaleYMIN" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rScaleYMIN" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;v&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="3480f488-baa7-4d57-8865-4dc99cf2708f" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 76" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="34.2" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Выход регулятора Y:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="e6bd9229-375f-4fe1-bceb-52f0e81c68f5" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 77" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.85" />
+              <NFloatParameter name="Y" value="28.2" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Задание на клапан Y3:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="e7d429cc-ad3f-4827-b53a-312cc14145de" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 78" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Y" value="34.2" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="null" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0.0 &quot;%&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rY_Pid" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.POU_Regulators.afbPID[1].stPid.rY_Pid" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>69394319-2530-483d-9d44-5d4825fcf0e7</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="f5f5f5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="8fb02597-70d1-47d3-a579-4d1f4a99b4a2" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 79" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+              <NFloatParameter name="Y" value="28.2" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0.0 &quot;v&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.A1_AOpin20_rTaskValveHeater" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.A1_AOpin20_rTaskValveHeater" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>69394319-2530-483d-9d44-5d4825fcf0e7</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="f5f5f5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="d86c36cd-9076-433c-a374-b1c16e4a8ae7" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 9" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="19" />
+              <NFloatParameter name="Height" value="4.8" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Y" value="21.9" />
+              <NFloatParameter name="X" value="20.4" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <RectProperty>
+            <parameters>
+              <NBoolParameter name="RoundCorners" value="True" />
+              <NFloatParameter name="ValueLU" value="1.5" />
+              <NFloatParameter name="ValueRU" value="1.5" />
+              <NFloatParameter name="ValueRD" value="1.5" />
+              <NFloatParameter name="ValueLD" value="1.5" />
+            </parameters>
+            <ChildProperties />
+            <n>Rect</n>
+            <Events />
+          </RectProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="5c946723-7f38-46da-ab71-1b1b1cf74362" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 9" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="22.65" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskOnRemoteMode" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskOnRemoteMode" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;%&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="f79e7cf8-807a-4904-be8e-15f08ae260c1" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 80" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="21" />
+              <NFloatParameter name="Y" value="24.6" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Дистанционный режим:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="126c5210-b738-4164-af6b-660ff6e87f14" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 81" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="21" />
+              <NFloatParameter name="Y" value="22.65" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Выход регулятора в дист.реж.:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="354d0cef-9a16-46d7-9706-e73f0a845756" typeId="385c687e-72bc-4056-a85d-462b975a758c">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Изображение 2" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.8" />
+              <NFloatParameter name="Y" value="24.45" />
+              <NFloatParameter name="Width" value="3" />
+              <NFloatParameter name="Height" value="1.5" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <MouseClickProperty>
+            <parameters />
+            <ChildProperties />
+            <n>MouseClick</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventMouseClickPropertyModel">
+                <parameters>
+                  <StringParameter name="Action" value="WriteVariable" />
+                  <StringParameter name="VariableSettingType" value="Boolean value inversion" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.xSetRemoteMode" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.xSetRemoteMode" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>WriteInVariable</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>MouseClickEvent</n>
+                <Events />
+                <Guid>de633f44-b828-4898-8856-3ffc27791eef</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </MouseClickProperty>
+          <ImageProperty>
+            <parameters />
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceFilePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="Ресурсы 1" />
+                  <NGuidParameter name="SourceId" value="5c4b24bb-12dd-47fd-89a3-1a19b78b7183" />
+                  <StringParameter name="FilePath" value="Переключатель OF.png" />
+                  <NGuidParameter name="MetaFileId" value="f612a992-05ca-43cf-b0c5-0dd4ac330452" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceFile</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>Image</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Condition" />
+                  <StringParameter name="Condition" value="NotEqualsZero" />
+                  <StringParameter name="PropertyName" value="SourceFile" />
+                  <StringParameter name="ParameterName" value="MetaFileId" />
+                  <StringParameter name="ConstParameterValue" value="f0783ccb-6351-4c3f-b66b-bfc3d6ea9db7" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="True" />
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.xSetRemoteMode" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.xSetRemoteMode" />
+                      <StringParameter name="FormatString" value="0" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>ConditionVariableX</n>
+                  </PropertyModel>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <BoolParameter name="IsPropertyActive" value="False" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>f68ffcaa-8190-42bc-988a-2b1af5f5241d</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </ImageProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="087dd667-db5a-45c5-9a8d-c54ecaee71eb" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 10" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="19" />
+              <NFloatParameter name="Height" value="2.7" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Y" value="18.45" />
+              <NFloatParameter name="X" value="20.4" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <RectProperty>
+            <parameters>
+              <NBoolParameter name="RoundCorners" value="True" />
+              <NFloatParameter name="ValueLU" value="1.5" />
+              <NFloatParameter name="ValueRU" value="1.5" />
+              <NFloatParameter name="ValueRD" value="1.5" />
+              <NFloatParameter name="ValueLD" value="1.5" />
+            </parameters>
+            <ChildProperties />
+            <n>Rect</n>
+            <Events />
+          </RectProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="3744f683-c126-4114-8856-0399d0cfd15e" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 10" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="19.2" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskOnSummer" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rTaskOnSummer" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;%&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="ffb01970-9bf2-4a1c-9359-fbab1b9df313" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 83" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="21" />
+              <NFloatParameter name="Y" value="19.2" />
+              <NFloatParameter name="Width" value="13.2" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Выход регулятора в режиме лето:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="d406f1ee-22d9-40b9-a459-7fc7da124b74" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 33" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="37.3" />
+              <NFloatParameter name="Y" value="49.65" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;д&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wDay" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wDay" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="129d995d-bcd1-4f45-b040-cbcee9522626" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 34" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="34.69999" />
+              <NFloatParameter name="Y" value="49.65" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;мес&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wMonth" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wMonth" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="d9ef72b0-d7dd-48f4-85d6-7c1d1af987f4" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 35" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="34.69999" />
+              <NFloatParameter name="Y" value="50.7" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;мин&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wMinute" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wMinute" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="3170225b-e6be-460d-8a10-f4698715242c" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 36" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="37.3" />
+              <NFloatParameter name="Y" value="50.7" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;сек&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wSecond" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wSecond" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="edf3771b-4d43-469e-ae91-de3ef8adf0c6" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 37" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="32.1" />
+              <NFloatParameter name="Y" value="49.65" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;г&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wYear" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wYear" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="fb2979e4-9ca4-43af-96e8-49bceee727be" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 38" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="2.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="X" value="32.1" />
+              <NFloatParameter name="Y" value="50.7" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="-" />
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Рассогласование" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events>
+              <EventBasePropertyModel xsi:type="EventPropertyModel">
+                <parameters>
+                  <StringParameter name="Trigger" value="Direct" />
+                  <StringParameter name="ParameterName" value="Text" />
+                </parameters>
+                <ChildProperties>
+                  <PropertyModel xsi:type="SourceVariablePropertyModel">
+                    <parameters>
+                      <StringParameter name="SourceAlias" value="OPC UA" />
+                      <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                      <StringParameter name="FormatString" value="#0 &quot;ч&quot;" />
+                      <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wHour" />
+                      <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL.SysTimeDate.wHour" />
+                    </parameters>
+                    <ChildProperties />
+                    <n>VariableDirect</n>
+                  </PropertyModel>
+                </ChildProperties>
+                <n>Event</n>
+                <Events />
+                <Guid>2feedae2-7317-4cd5-936c-defd1a584459</Guid>
+                <IsCustomElementEvent>false</IsCustomElementEvent>
+              </EventBasePropertyModel>
+            </Events>
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="171F29" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="DFE0E5" />
+              <NBoolParameter name="FillState" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="4e061e90-8d8c-45a9-aba9-3ba58ece4d8b" typeId="741dfdb9-144c-4c5f-87ec-165d78a9d66b">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Прямоугольник 11" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="Width" value="19" />
+              <NFloatParameter name="Height" value="8.1" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="2" />
+              <NFloatParameter name="HeightDefault" value="2" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Y" value="26.55" />
+              <NFloatParameter name="X" value="0.75" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <RectProperty>
+            <parameters>
+              <NBoolParameter name="RoundCorners" value="True" />
+              <NFloatParameter name="ValueLU" value="1.5" />
+              <NFloatParameter name="ValueRU" value="1.5" />
+              <NFloatParameter name="ValueRD" value="1.5" />
+              <NFloatParameter name="ValueLD" value="1.5" />
+            </parameters>
+            <ChildProperties />
+            <n>Rect</n>
+            <Events />
+          </RectProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+              <NBoolParameter name="FillState" value="False" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="636E80" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="90c98c17-04c3-4be1-a1da-3b5a50bac0f5" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 13" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="40.05" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rTi" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rTi" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;сек&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="ed310727-79fa-482e-a859-bd150a6f7bb2" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 14" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="34.35" />
+              <NFloatParameter name="Y" value="42" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rKp" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.astPidSettings[1].rKp" />
+                  <StringParameter name="FormatString" value="#0.0" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="8d8f4844-0908-4ae4-a18f-b1dc65e20884" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 42" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.69998" />
+              <NFloatParameter name="Y" value="42" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Коэффициент Kp:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="b424dabe-e70d-44bd-a042-9aed1d81b401" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 43" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="20.69998" />
+              <NFloatParameter name="Y" value="40.05" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Коэффициент Ti:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="15a11f5e-9282-48e6-8abe-0f56cf760b5b" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 11" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Y" value="29.25" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetSecurityTemperAirSupply" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetSecurityTemperAirSupply" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="2ac42f3b-ca16-49e9-8e24-b3dc1a767199" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 12" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Y" value="31.2" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetTemperHeatingUp" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetTemperHeatingUp" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="87712e66-b174-4c24-b441-3a58cf87fcd8" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 39" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="31.2" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Уставка Т прогрева:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="cabe1550-d21d-4eac-bd46-3f895f49fac1" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 40" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="29.25" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Защита Тприточного воздуха:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="5756684f-2101-45b7-bee8-039871ad1b21" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 41" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="4.5" />
+              <NFloatParameter name="Y" value="32.85" />
+              <NFloatParameter name="Width" value="11.55" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Прогрев нагревателя" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NBoolParameter name="Bold" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="16201c50-ba7a-403f-9ce3-d5442cf0d3ae" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Текст 44" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="1.35" />
+              <NFloatParameter name="Y" value="27.3" />
+              <NFloatParameter name="Width" value="12.45" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <TextProperty>
+            <parameters>
+              <StringParameter name="Text" value="Защита Тобратной воды:" />
+            </parameters>
+            <ChildProperties />
+            <n>Text</n>
+            <Events />
+          </TextProperty>
+          <FontProperty>
+            <parameters>
+              <StringParameter name="Color" value="3F4A58" />
+              <NFloatParameter name="Size" value="8" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+              <NIntParameter name="HorizontalAlignment" value="0" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="7E8A98" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+        </properties>
+      </Child>
+      <Child xsi:type="ElementModel" id="dee2ca90-8ede-44ef-8175-b224f553ae50" typeId="7c2359c0-bc0d-46d4-bc99-04eae8cdb0ce">
+        <properties>
+          <CommonProperty>
+            <parameters>
+              <StringParameter name="Name" value="Поле ввода 15" />
+            </parameters>
+            <ChildProperties />
+            <n>Common</n>
+          </CommonProperty>
+          <TransformProperty>
+            <parameters>
+              <NFloatParameter name="X" value="15" />
+              <NFloatParameter name="Y" value="27.3" />
+              <NFloatParameter name="Width" value="3.802666" />
+              <NFloatParameter name="Length" value="0.01" />
+              <NFloatParameter name="WidthDefault" value="3" />
+              <NFloatParameter name="LengthDefault" value="0.01" />
+              <NFloatParameter name="Height" value="1.25" />
+            </parameters>
+            <ChildProperties />
+            <n>Transform</n>
+            <Events />
+            <MinWidth>0</MinWidth>
+            <MinHeight>0</MinHeight>
+          </TransformProperty>
+          <InputFieldProperty>
+            <parameters>
+              <StringParameter name="VariableId" value="b41702a0-2a66-4d49-9b2a-a86b21704378\1\Рег ЧП Н1\Макс. расс. регулятора" />
+            </parameters>
+            <ChildProperties>
+              <PropertyModel xsi:type="SourceVariablePropertyModel">
+                <parameters>
+                  <StringParameter name="SourceAlias" value="OPC UA" />
+                  <NGuidParameter name="SourceId" value="86c21415-cad9-4868-b774-41c7235a98a3" />
+                  <StringParameter name="VariableHash" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetSecurityTemperWaterBack" />
+                  <StringParameter name="VariablePseudonym" value="ns=4;s=|var|kB.D-2.Application.GVL_Retain.stHeaterSettings.rSetSecurityTemperWaterBack" />
+                  <StringParameter name="FormatString" value="#0.0 &quot;°С&quot;" />
+                </parameters>
+                <ChildProperties />
+                <n>SourceVariable</n>
+              </PropertyModel>
+            </ChildProperties>
+            <n>InputField</n>
+          </InputFieldProperty>
+          <FontProperty>
+            <parameters>
+              <NFloatParameter name="Size" value="8" />
+              <StringParameter name="Color" value="5888c0" />
+              <BoolParameter name="IsFontSizeChangeable" value="True" />
+            </parameters>
+            <ChildProperties />
+            <n>Font</n>
+            <Events />
+          </FontProperty>
+          <BorderProperty>
+            <parameters>
+              <StringParameter name="Color" value="5888c0" />
+              <StringParameter name="Opacity" value="40" />
+            </parameters>
+            <ChildProperties />
+            <n>Border</n>
+            <Events />
+          </BorderProperty>
+          <BackgroundProperty>
+            <parameters>
+              <StringParameter name="Color" value="C5D3E4" />
+            </parameters>
+            <ChildProperties />
+            <n>Background</n>
+            <Events />
+          </BackgroundProperty>
+        </properties>
+      </Child>
+    </children>
+  </elementsRootModel>
+</File>

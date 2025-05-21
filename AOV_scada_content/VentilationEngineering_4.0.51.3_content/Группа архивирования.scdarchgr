@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ArchiveGroupFile" id="45eaeac2-0f48-4b9a-bdef-002dbc2d55ed">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+    <ArchiveGroupProperty>
+      <parameters>
+        <StringParameter name="RepeatTimePeriod" value="Interval" />
+      </parameters>
+      <ChildProperties />
+      <n>ArchiveGroup</n>
+    </ArchiveGroupProperty>
+  </properties>
+</File>

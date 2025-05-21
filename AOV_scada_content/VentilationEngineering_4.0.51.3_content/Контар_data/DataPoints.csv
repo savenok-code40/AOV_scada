@@ -1,0 +1,55 @@
+﻿Hash;Pseudonym;DataPointClass;DataType;IsRecommendation;IsEvent;Aperture;Measure;DecimalPlaces;IgnoreEqualValues;ArrayDimensions;ArrayDataType;UserStruct;IsChildOfVariable;NestingLevel;IsUsedByClient
+1\Alarm\Отказ ТЕ2 пр. помещ.;1\Alarm\Отказ ТЕ2 пр. помещ.;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Alarm\Отказ ТЕ1 пр. ТС;1\Alarm\Отказ ТЕ1 пр. ТС;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Alarm\Отказ ТЕ3 обр. помещ.;1\Alarm\Отказ ТЕ3 обр. помещ.;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Alarm\Отказ полож кл. Y1;1\Alarm\Отказ полож кл. Y1;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Alarm\Отказ потенциометра;1\Alarm\Отказ потенциометра;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Alarm\Нет работы Н по КМ;1\Alarm\Нет работы Н по КМ;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Параметры\Общий отказ;1\Параметры\Общий отказ;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Параметры\ТЕ2 пр. помещ.;1\Параметры\ТЕ2 пр. помещ.;Out;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Параметры\ТЕ1 пр. ТС;1\Параметры\ТЕ1 пр. ТС;Out;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Параметры\ТЕ3 обр. помещ.;1\Параметры\ТЕ3 обр. помещ.;Out;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Параметры\Предупр. сигнализ.;1\Параметры\Предупр. сигнализ.;Out;BOOL;False;False;0;;0;False;;;;False;0;False
+1\Параметры\Сезон лето;1\Параметры\Сезон лето;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Параметры\Полож. кл. Y1;1\Параметры\Полож. кл. Y1;Out;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Параметры\ПС Макс. откл. рег.;1\Параметры\ПС Макс. откл. рег.;Out;BOOL;False;False;0;;0;False;;;;False;0;False
+1\Наладка\Сброс отказов;1\Наладка\Сброс отказов;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Наладка\Корр. ТЕ2 пр. помещ.;1\Наладка\Корр. ТЕ2 пр. помещ.;InOut;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Наладка\Корр. ТЕ1 пр. ТС;1\Наладка\Корр. ТЕ1 пр. ТС;InOut;REAL;False;False;0;°C;1;False;;;;False;0;True
+1\Наладка\Корр. ТЕ3 обр. помещ.;1\Наладка\Корр. ТЕ3 обр. помещ.;InOut;REAL;False;False;0;°C;1;False;;;;False;0;True
+1\Наладка\Корр.полож.кл. Y1;1\Наладка\Корр.полож.кл. Y1;InOut;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Рег. Т помещ.\Уст. ТЕ2 пр. от RP;1\Рег. Т помещ.\Уст. ТЕ2 пр. от RP;Out;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Рег. Т помещ.\Уст. ТЕ2 пр. помещ.;1\Рег. Т помещ.\Уст. ТЕ2 пр. помещ.;InOut;REAL;False;False;0;°С;0;False;;;;False;0;True
+1\Рег. Т помещ.\Макс. доп. рассогл.;1\Рег. Т помещ.\Макс. доп. рассогл.;InOut;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Рег. Т помещ.\Вкл. дист. режим;1\Рег. Т помещ.\Вкл. дист. режим;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Рег. Т помещ.\Рассогласование;1\Рег. Т помещ.\Рассогласование;Out;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Рег. Т помещ.\Выход регулятора;1\Рег. Т помещ.\Выход регулятора;Out;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Рег. Т помещ.\DZONE;1\Рег. Т помещ.\DZONE;InOut;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Рег. Т помещ.\KP;1\Рег. Т помещ.\KP;InOut;REAL;False;False;0;;1;False;;;;False;0;True
+1\Рег. Т помещ.\TI;1\Рег. Т помещ.\TI;InOut;REAL;False;False;0;сек;0;False;;;;False;0;True
+1\Рег. Т помещ.\MANUAL;1\Рег. Т помещ.\MANUAL;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Рег. Т помещ.\ACTION;1\Рег. Т помещ.\ACTION;InOut;BOOL;False;False;0;;0;False;;;;False;0;False
+1\Рег. Т помещ.\Полож. кл. в дист. реж.;1\Рег. Т помещ.\Полож. кл. в дист. реж.;InOut;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Рег. Т помещ.\Здн. на кл. Y1;1\Рег. Т помещ.\Здн. на кл. Y1;Out;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Рег. Т помещ.\YMIN;1\Рег. Т помещ.\YMIN;InOut;REAL;False;False;0;;0;False;;;;False;0;True
+1\Рег. Т помещ.\YMAX;1\Рег. Т помещ.\YMAX;InOut;REAL;False;False;0;;0;False;;;;False;0;True
+1\Рег. Т помещ.\Полож. кл. летом;1\Рег. Т помещ.\Полож. кл. летом;InOut;REAL;False;False;0;%;1;False;;;;False;0;True
+1\Рег. Т помещ.\Уст. ТЕ3 обр. помещ.;1\Рег. Т помещ.\Уст. ТЕ3 обр. помещ.;InOut;REAL;False;False;0;°С;1;False;;;;False;0;True
+1\Рег. Т помещ.\Скор. уставка ТЕ2 пр.;1\Рег. Т помещ.\Скор. уставка ТЕ2 пр.;Out;REAL;False;False;0;°C;0;False;;;;False;0;True
+1\Рег. Т помещ.\Вкл. корр. по обр. воде;1\Рег. Т помещ.\Вкл. корр. по обр. воде;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Рег. Т помещ.\ZONE;1\Рег. Т помещ.\ZONE;InOut;REAL;False;False;0;°C;1;False;;;;False;0;True
+1\Рег. Т помещ.\Разр. корр. по ТЕ3 обр.;1\Рег. Т помещ.\Разр. корр. по ТЕ3 обр.;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\КМ Н;1\Насос\КМ Н;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Пуск Н;1\Насос\Пуск Н;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Наработка Н;1\Насос\Наработка Н;Out;REAL;False;False;0;час;3;False;;;;False;0;True
+1\Насос\Сброс наработки Н;1\Насос\Сброс наработки Н;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Вр. обр. связи (КМ);1\Насос\Вр. обр. связи (КМ);InOut;INT;False;False;0;сек;0;False;;;;False;0;True
+1\Насос\Дист. пуск Н;1\Насос\Дист. пуск Н;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Дист. реж. Н;1\Насос\Дист. реж. Н;InOut;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Авт. реж. Н;1\Насос\Авт. реж. Н;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Насос\Руч. реж. Н;1\Насос\Руч. реж. Н;Out;BOOL;False;False;0;;0;False;;;;False;0;True
+1\Setting_RP\YMIN;1\Setting_RP\YMIN;InOut;REAL;False;False;0;%;1;False;;;;False;0;False
+1\Setting_RP\YMAX;1\Setting_RP\YMAX;InOut;REAL;False;False;0;%;1;False;;;;False;0;False
+1\Setting_RP\X MIN УП;1\Setting_RP\X MIN УП;InOut;REAL;False;False;0;Ом;1;False;;;;False;0;False
+1\Setting_RP\X MAX УП;1\Setting_RP\X MAX УП;InOut;REAL;False;False;0;Ом;1;False;;;;False;0;False
+1\Setting_RP\Измеренное сопротивление;1\Setting_RP\Измеренное сопротивление;Out;REAL;False;False;0;Ом;1;False;;;;False;0;False

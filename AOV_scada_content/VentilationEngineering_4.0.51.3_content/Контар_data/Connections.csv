@@ -1,0 +1,3 @@
+﻿ToNodeId;ToHash;ToPseudonym;FromNodeId;FromNodeAlias;FromHash;FromPseudonym
+226e02cf-9008-42b2-ae93-e4fe99846437;1\Параметры\Сезон лето;1\Параметры\Сезон лето;86c21415-cad9-4868-b774-41c7235a98a3;OPC UA;"ns=4;s=|var|kB.D-2.Application.GVL_Retain.xSummer";"ns=4;s=|var|kB.D-2.Application.GVL_Retain.xSummer"
+226e02cf-9008-42b2-ae93-e4fe99846437;1\Наладка\Сброс отказов;1\Наладка\Сброс отказов;86c21415-cad9-4868-b774-41c7235a98a3;OPC UA;"ns=4;s=|var|kB.D-2.Application.GVL.xResetAlarmsTopLevel";"ns=4;s=|var|kB.D-2.Application.GVL.xResetAlarmsTopLevel"

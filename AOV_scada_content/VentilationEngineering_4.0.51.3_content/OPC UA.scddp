@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="DataProviderFile" id="86c21415-cad9-4868-b774-41c7235a98a3" type="OpcClient">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+    <OpcClientDataProviderProperty>
+      <parameters>
+        <StringParameter name="EndpointUrl" value="opc.tcp://192.168.48.4:4840" />
+        <StringParameter name="Login" value="1" />
+        <StringParameter name="Password" value="1" />
+        <StringParameter name="OpcUserIdentityMode" value="Login/Password" />
+        <UintParameter name="TimeoutForConnect" value="1000" />
+      </parameters>
+      <ChildProperties>
+        <PropertyModel xsi:type="SourceFilePropertyModel">
+          <parameters>
+            <BoolParameter name="IsPropertyActive" value="False" />
+          </parameters>
+          <ChildProperties />
+          <n>SourceFile</n>
+        </PropertyModel>
+      </ChildProperties>
+      <n>OpcClientDataProvider</n>
+    </OpcClientDataProviderProperty>
+  </properties>
+  <variables />
+</File>

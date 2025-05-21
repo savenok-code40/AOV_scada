@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Project" id="740a106c-a48f-4905-8422-1972713ac73a" name="VentilationEngineering_4.0.51.3" creationDateTime="0001-01-01T00:00:00" changeDateTime="0001-01-01T00:00:00">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.0.51.3" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+    <ProjectSettingsPropertyModel>
+      <parameters>
+        <NGuidParameter name="StartingMnemoscheme" value="af3281af-f393-4667-9646-c047a1b45c35" />
+      </parameters>
+      <ChildProperties />
+      <n>ProjectSettings</n>
+    </ProjectSettingsPropertyModel>
+  </properties>
+</File>
